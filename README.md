@@ -2,9 +2,6 @@
 
 Welcome to my Github profile! I'm a student specializing in web and mobile development.
 
-<details>
-  <summary>▼ Tech Stack (Click)</summary>
-  <br>
 
   ### Programming Languages & Frameworks
   

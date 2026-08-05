@@ -4,10 +4,9 @@ Welcome to my Github profile! I'm a student specializing in web and mobile devel
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allenseares&show_icons=true&theme=dark)](https://github.com/allenseares)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allenseares&show_icons=true&theme=dark&v=1)](https://github.com/allenseares)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allenseares&layout=compact&theme=dark)](https://github.com/allenseares)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allenseares&layout=compact&theme=dark&v=1)](https://github.com/allenseares)
 ---
 
 <details>
